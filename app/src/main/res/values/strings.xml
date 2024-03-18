@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VKcustomclock</string>
+    <string name="title_home">Clock</string>
+    <string name="title_dashboard">Clocks</string>
+    <string name="title_notifications">More clocks</string>
+</resources>

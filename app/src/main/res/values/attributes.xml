@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomAnalogClock">
+        <attr name="clockPadding" format="integer"/>
+
+        <attr name="colorHourAndMinuteHands" format="color"/>
+        <attr name="colorSecondHand" format="color"/>
+        <attr name="colorNumerals" format="color"/>
+        <attr name="colorCircle" format="color"/>
+    </declare-styleable>
+</resources>
